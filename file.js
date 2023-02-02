@@ -43,3 +43,5 @@ function greeting() {
   console.log(msg);
 }
 greeting();
+
+console.log("this is ")
